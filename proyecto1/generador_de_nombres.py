@@ -62,7 +62,7 @@ tercera_inicial={
     "D":"Princess",
     "E":"Girl",
     "F":"Machine",
-    "G":"Cat",
+    "G":"Bear",
     "H":"Ballon",
     "I":"Ant",
     "J":"Bee",
